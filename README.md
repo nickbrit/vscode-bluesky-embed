@@ -2,6 +2,9 @@
 
 A VS Code extension that converts Bluesky post URLs into embeddable code.
 
+![preview](https://github.com/user-attachments/assets/3d4bfd5f-aa5f-4738-8d43-9041eb2a2a06)
+
+
 ## Features
 
 -   Detects Bluesky post URLs in the selected text.
